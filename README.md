@@ -1,5 +1,7 @@
 # test-links
 
-https://play.golang.org/
+[Playground](https://play.golang.org/)
 
-https://blog.golang.org/go-maps-in-action
+[Maps](https://blog.golang.org/go-maps-in-action)
+
+[Maps](https://blog.golang.org/go-maps-in-action)
